@@ -66,3 +66,6 @@ keybind = ctrl+a>k=goto_split:up
 
 keybind = ctrl+a>l=goto_split:right
 
+keybind = ctrl+a>n=next_tab
+
+keybind = ctrl+a>p=previous_tab
